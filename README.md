@@ -1,2 +1,2 @@
 # car-learning
-Machine Learning program that identifies the make and model of a car based on an image inputted.
+Object detection program that can differentiate over 100 objects.
